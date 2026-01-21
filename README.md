@@ -5,7 +5,6 @@
 I am a Python and AI Developer with experience building scalable, production-ready systems for startups and enterprises. Currently, I am a Python Developer at Code Graphers, where I specialize in backend development, AI/ML integrations, and cloud-based deployments.
 
 ### 🚀 What I do:
-- 🔭 **Current Focus:** Building **LobbyAI**, an automated AI booking workflow for the hospitality industry.
 - 🤖 **AI/ML:** Integrating LLMs (OpenAI, LangChain, HuggingFace) into real-world applications for automation and insights.
 - ☁️ **Cloud:** Managing infrastructure using **Terraform, Docker, GCP and AWS**.
 - ⚡ **Backend:** Crafting high-performance APIs using **FastAPI, Django, and Flask**.

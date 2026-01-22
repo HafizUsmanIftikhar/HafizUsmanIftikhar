@@ -24,15 +24,3 @@ I am a Python and AI Developer with experience building scalable, production-rea
 - 📧 Email: **itshafizusman@gmail.com**
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizUsmanIftikhar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizUsmanIftikhar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----

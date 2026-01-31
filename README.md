@@ -18,10 +18,17 @@ I am a Python and AI Developer with experience building scalable, production-rea
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
+![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![chatbots](https://img.shields.io/badge/chatbots-000000?style=for-the-badge&logo=openai&logoColor=white)
+![rag](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logo=airtable&logoColor=white)
 
 ### 📫 Reach Me:
-- 📧 Email: **itshafizusman@gmail.com**
-[![Portfolio](https://img.shields.io/badge/Portfolio-usman--phi.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://usman-phi.vercel.app/)
 
+[![email](https://img.shields.io/badge/email-itshafizusman%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshafizusman@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-usman--phi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usman-phi.vercel.app/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itshafizusman/)
 ---

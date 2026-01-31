@@ -22,5 +22,6 @@ I am a Python and AI Developer with experience building scalable, production-rea
 
 ### 📫 Reach Me:
 - 📧 Email: **itshafizusman@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-usman--phi.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://usman-phi.vercel.app/)
 
 ---
